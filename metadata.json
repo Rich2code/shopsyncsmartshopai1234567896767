@@ -1,0 +1,7 @@
+{
+  "name": "SmartShop Minimalist",
+  "description": "An intelligence-first shopping assistant that uses Gemini grounding to find real-time prices and optimize your shopping route based on cost and distance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
